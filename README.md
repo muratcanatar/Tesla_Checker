@@ -1,6 +1,6 @@
 # Tesla Stok Takip ve Telegram Bildirim Botu
 
-Bu Python scripti, [Tesla Türkiye Model Y stok sayfası](https://www.tesla.com/tr_tr/inventory/new/my)'nı düzenli olarak kontrol eder. Yeni araç stoku tespit edildiğinde Telegram üzerinden anında bildirim gönderir. Ayrıca her kontrol zamanını ve sonucu bir log dosyasına kayıt eder.
+Bu Python scripti, [Tesla Türkiye Model Y stok sayfası](https://www.tesla.com/tr_tr/inventory/new/my)'nı düzenli olarak kontrol eder. Yeni araç stoğu tespit edildiğinde Telegram üzerinden anında bildirim gönderir. Ayrıca her kontrol zamanını ve sonucu bir log dosyasına kayıt eder.
 
 ---
 
